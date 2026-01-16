@@ -25,7 +25,7 @@
 - Starting coding from scratch
 
 ⚡ **Fun fact**
-- I believe consistency beats talent — every single time.
+- I believe consistency beats talent every single time.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thedebojeet)
